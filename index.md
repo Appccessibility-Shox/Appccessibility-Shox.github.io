@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Appcessibility Shox
 
-You can use the [editor on GitHub](https://github.com/Appccessibility-Shox/Appccessibility-Shox.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Appcessibility Shox is a 501c3, which produces applications to increase the usability of the web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Products
 
-### Markdown
+Check out [Keys for Safari](https://apps.apple.com/us/app/keys-for-safari/id1494642810?mt=12), an application that makes navigating the web faster than ever for power users and makes the web more accessible to those with physical disabilities. For those with a physical disability, please email keys4safari@gmail.com for a 100% discount. Check out [Simplifier for Facebook](https://apps.apple.com/us/app/simplifier-for-facebook/id1509832815?mt=12) and [Focus for YouTube](https://apps.apple.com/us/app/focus-for-youtube/id1514703160?mt=12) to make using YouTube less distracting. If you have ADHD or another accessibility need, both these apps are free-just email keys4safari@gmail.com for 100% off. [Vocabulary Log](https://apps.apple.com/us/app/vocabulary-log/id1556420310?mt=12) is a great tool for expading your vocabulary. ESL learners can email keys4safari@gmail.com for 100% off.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All proceeds from all products are donated to the Durham Nursing and Rehabilitation Center (DNRC), a grossly underfunded public nursing home in Durham, NC. All applications are open source and do not collect user data.
 
-```markdown
-Syntax highlighted code block
+## Support or Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Appccessibility-Shox/Appccessibility-Shox.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For support, please email keys4safari@gmail.com.
