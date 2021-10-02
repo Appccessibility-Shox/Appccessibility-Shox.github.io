@@ -11,7 +11,7 @@ Appcessibility Shox is a 501(c)(3), which produces applications to increase the 
 ## Products
 
 ### Keys for Safari: A Keyboard-navigation extension for disabled users and power users alike.
-Check out [Keys for Safari](https://apps.apple.com/us/app/keys-for-safari/id1494642810?mt=12), an application that makes navigating the web faster than ever for power users and makes the web more accessible to those with physical disabilities. For those with a physical disability, please email keys4safari@gmail.com for a 100% discount.
+Check out [Keys for Safari](https://apps.apple.com/us/app/keys-for-safari/id1494642810?mt=12), an application that makes navigating the web faster than ever for power users and makes the web more accessible to those with physical disabilities. For those with a physical disability, please email shockerellaapps@gmail.com for a 100% discount.
 
 ### Focus for YouTube & Simplifier for Facebook: Remove distractions from these two popular sites.
 Check out [Simplifier for Facebook](https://apps.apple.com/us/app/simplifier-for-facebook/id1509832815?mt=12) and [Focus for YouTube](https://apps.apple.com/us/app/focus-for-youtube/id1514703160?mt=12) to make using Facebook and YouTube less distracting. If you have ADHD, a learning disability, or another accessibility need, both these apps are free-just email shockerellaapps@gmail.com for 100% off. 
