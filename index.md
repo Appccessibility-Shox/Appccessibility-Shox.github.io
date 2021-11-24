@@ -11,10 +11,13 @@ Appcessibility Shox is a 501(c)(3), which produces applications to increase the 
 ## Products
 
 ### Keys for Safari: A Keyboard-navigation extension for disabled users and power users alike.
-Check out [Keys for Safari](https://apps.apple.com/us/app/keys-for-safari/id1494642810?mt=12), an application that makes navigating the web faster than ever for power users and makes the web more accessible to those with physical disabilities. For those with a physical disability, please email shockerellaapps@gmail.com for a 100% discount.
+Check out [Keys for Safari](https://apps.apple.com/us/app/keys-for-safari/id1494642810?mt=12), an application that makes navigating the web faster than ever for power users and makes the web more accessible to those with physical disabilities. For those with a physical disability, please email shockerellaapps@gmail.com for a 100% discount (no questions asked).
 
 ### Focus for YouTube & Simplifier for Facebook: Remove distractions from these two popular sites.
-Check out [Simplifier for Facebook](https://apps.apple.com/us/app/simplifier-for-facebook/id1509832815?mt=12) and [Focus for YouTube](https://apps.apple.com/us/app/focus-for-youtube/id1514703160?mt=12) to make using Facebook and YouTube less distracting. If you have ADHD, a learning disability, or another accessibility need, both these apps are free-just email shockerellaapps@gmail.com for 100% off. 
+Check out [Simplifier for Facebook](https://apps.apple.com/us/app/simplifier-for-facebook/id1509832815?mt=12) and [Focus for YouTube](https://apps.apple.com/us/app/focus-for-youtube/id1514703160?mt=12) to make using Facebook and YouTube less distracting. If you have ADHD, a learning disability, or another accessibility need, both these apps are free-just email shockerellaapps@gmail.com for 100% off (no questions asked). 
+
+### Transcript Reader: Hang on to every word.
+[Transcript Reader](https://apps.apple.com/us/app/transcript-reader/id1595490573) extends the concept of Safari's default "reader mode" beyond the domain of articles and into subtitles. It's great for students who want to be able to select, copy, or Quick Note portions of a lecture, people who have trouble focusing on the content of a video (such as those with ADHD), or those who have trouble reading subtitles. If you have ADHD, a visual or hearing impairment, or another accessibility need, please email shockerellaapps@gmail.com for 100% off (no questions asked). 
 
 ### Vocabulary Log: Never lose a new word you discover.
 [Vocabulary Log](https://apps.apple.com/us/app/vocabulary-log/id1556420310?mt=12) is a great tool for expading your vocabulary and for English-as-a-second-language learners.
