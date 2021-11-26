@@ -7,6 +7,7 @@ Appcessibility Shox is a 501(c)(3), which produces applications to increase the 
 - [Webページ上のリンクやメニューをキーボードだけで操作できるSafari機能拡張「Keys for Safari」がリリース。](https://applech2.com/archives/20200122-keys-for-safari-extension-web-keyboard-navigation.html)
 - [Keys for Safari, une extension pour naviguer uniquement au clavier](https://www.macg.co/logiciels/2020/01/keys-safari-une-extension-pour-naviguer-uniquement-au-clavier-111489)
 - [YouTubeに表示される、おすすめや急上昇、サイドバーの関連動画、コメントなどを非表示にしてくれるSafari機能拡張「Focus for YouTube」がリリース。](https://applech2.com/archives/20200829-focus-for-youtube-safari-extension.html)
+- [Transcript Reader listed as one of the top 6 best apps of the week 11/19/21 by appadvice.com](https://appadvice.com/best-ios-apps-of-the-week/november-14-2021)
 
 ## Products
 
