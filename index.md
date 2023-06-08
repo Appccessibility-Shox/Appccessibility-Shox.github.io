@@ -6,7 +6,7 @@ Appccessibility Shox is a 501(c)(3) which develops applications to improve the a
 
 <h3 align="left">
   <span align="center">
-    Keys for Safari <img src="Resources/keysIcon.png" alt="logo" width="32" height="32">
+    <img src="Resources/keysIcon.png" alt="Keys Logo" width="35" height="35"> Keys for Safari
   </span>
 </h3>
 [Keys for Safari](https://apps.apple.com/us/app/keys-for-safari/id1494642810?mt=12) is an application that makes navigating the web faster than ever for power users and makes the web more accessible to those with physical disabilities. For those with a physical disability, please email shockerellaapps@gmail.com for a 100% discount (no questions asked).
