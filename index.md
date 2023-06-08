@@ -1,13 +1,6 @@
-# Appcessibility Shox
+# Appccessibility Shox
 
-Appcessibility Shox is a 501(c)(3), which produces applications to increase the usability of the web. If you're interested in any of our products for an accessibility need, please email us at shockerellaapps@gmail.com for a 100% discount. All proceeds from all products are donated to the Durham Nursing and Rehabilitation Center (DNRC), a grossly underfunded public nursing home in Durham, NC. All applications are open source and do not collect user data.
-
-## In the News
-- [Keys für Safari: Klasse Erweiterung gestattet Tastatur-Navigation](https://www.ifun.de/keys-fuer-safari-klasse-erweiterung-gestattet-tastatur-navigation-149410/)
-- [Webページ上のリンクやメニューをキーボードだけで操作できるSafari機能拡張「Keys for Safari」がリリース。](https://applech2.com/archives/20200122-keys-for-safari-extension-web-keyboard-navigation.html)
-- [Keys for Safari, une extension pour naviguer uniquement au clavier](https://www.macg.co/logiciels/2020/01/keys-safari-une-extension-pour-naviguer-uniquement-au-clavier-111489)
-- [YouTubeに表示される、おすすめや急上昇、サイドバーの関連動画、コメントなどを非表示にしてくれるSafari機能拡張「Focus for YouTube」がリリース。](https://applech2.com/archives/20200829-focus-for-youtube-safari-extension.html)
-- [Transcript Reader listed as one of the top 6 best apps of the week 11/19/21 by appadvice.com](https://appadvice.com/best-ios-apps-of-the-week/november-14-2021)
+Appccessibility Shox is a 501(c)(3) which develops applications to improve the accessibility of the web. If you're interested in any of our products for an accessibility need, please email us at shockerellaapps@gmail.com for a 100% discount. All proceeds from all products are donated to the Durham Nursing and Rehabilitation Center (DNRC), a grossly underfunded public nursing home in Durham, NC. All applications are open source and do not collect user data.
 
 ## Products
 
@@ -29,5 +22,12 @@ For support, please email shockerellaapps@gmail.com.
 
 ## Get Involved
 
-Appcessibility Shox is currently recruiting members of the disabled community to join a review panel to provide the ideas and feedback that will drive future initiatives. No coding ability is required. The review panel will be an unpaid position that meets virtually from 7:00-8:30 PM EST on the first Sunday of every third month with the next meeting being on November 7, 2021. The time commitment is very flexible, though, and we will be respectful of your time. As a member, you also get free access to all of Appccessibility Shox’s apps. If this sounds like something you would be interested in, **please** reach out to shockerellaapps@gmail.com.
+Appccessibility Shox is currently recruiting members of the disabled community to join a review panel to provide the ideas and feedback that will drive future initiatives. No coding ability is required. The review panel will be an unpaid position that meets virtually from 7:00-8:30 PM EST on the first Sunday of every third month with the next meeting being on November 7, 2021. The time commitment is very flexible, though, and we will be respectful of your time. As a member, you also get free access to all of Appccessibility Shox’s apps. If this sounds like something you would be interested in, **please** reach out to shockerellaapps@gmail.com.
 Additionally, non-disabled people can reach out to discuss other ways to get involved based on skillset.
+
+## In the News
+- [Keys für Safari: Klasse Erweiterung gestattet Tastatur-Navigation](https://www.ifun.de/keys-fuer-safari-klasse-erweiterung-gestattet-tastatur-navigation-149410/)
+- [Webページ上のリンクやメニューをキーボードだけで操作できるSafari機能拡張「Keys for Safari」がリリース。](https://applech2.com/archives/20200122-keys-for-safari-extension-web-keyboard-navigation.html)
+- [Keys for Safari, une extension pour naviguer uniquement au clavier](https://www.macg.co/logiciels/2020/01/keys-safari-une-extension-pour-naviguer-uniquement-au-clavier-111489)
+- [YouTubeに表示される、おすすめや急上昇、サイドバーの関連動画、コメントなどを非表示にしてくれるSafari機能拡張「Focus for YouTube」がリリース。](https://applech2.com/archives/20200829-focus-for-youtube-safari-extension.html)
+- [Transcript Reader listed as one of the top 6 best apps of the week 11/19/21 by appadvice.com](https://appadvice.com/best-ios-apps-of-the-week/november-14-2021)
