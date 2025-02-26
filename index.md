@@ -1,3 +1,5 @@
+## 🎉 New Milestone: Thanks to the non-disabled users purchasing AppShox's applications, we've been able to surpass $5,000 donated to the Durham Nursing and Rehabilitation Center.
+
 # Appccessibility Shox
 
 Appccessibility Shox is a 501(c)(3) which develops applications to improve the accessibility of the web. If you're interested in any of our products for an accessibility need, please email us at shockerellaapps@gmail.com for a 100% discount. All proceeds from all products are donated to the Durham Nursing and Rehabilitation Center (DNRC), a grossly underfunded public nursing home in Durham, NC. All applications are open source and do not collect user data.
